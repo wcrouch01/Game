@@ -17,3 +17,5 @@ Spells and shield require mana which recharges.
 There are upgrades scattered around each level which will boost your character (damageUp, healthUp, heal, etc.)
 
 There are four levels as of right now and a boss level.
+
+I included the source code for this project in case anybody wants to read through it.
